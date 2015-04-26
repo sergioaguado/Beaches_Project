@@ -59,7 +59,7 @@ shinyUI(
                         mainPanel(
                                 HTML("<h4>Play with the filters for discovering beaches in Spain.</h4>"),
                                 htmlOutput("gvis"),
-                                HTML("<br><br><p>Author: <em>Sergio Aguado</em><br><a href='https://github.com/sergioaguado'>Github</a></p>")
+                                HTML("<br><br><p>Author: <em>Sergio Aguado</em><br><a href='https://github.com/sergioaguado/Beaches_Project'>Github</a></p>")
                         )
                         
                 )
